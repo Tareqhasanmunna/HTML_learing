@@ -6,7 +6,6 @@ This repository contains HTML code for practice purposes. The HTML file includes
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [HTML Elements](#html-elements)
 - [Styling](#styling)
 
 ## Introduction
