@@ -22,3 +22,5 @@ To use the HTML code in this repository, follow these steps:
    ```bash
    git clone https://github.com/Tareqhasanmunna/HTML_learning.git
    
+## Styling
+This project is a test run on modifying the text by adding color to it and changing the size. a different way to show address, writing mathematics, quotes, and lastly address and abbreviation.  
