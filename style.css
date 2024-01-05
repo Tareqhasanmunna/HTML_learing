@@ -1,26 +1,26 @@
-marquee{
-    background-color: yellow;
+.marquee{
+    background-color: rgb(89, 126, 82);
 }
-h1{
-    color: blueviolet;
-    background-color: pink;
+.nav_about{
+    text-align: right;
 }
-body{
-    background-color: blanchedalmond;
-    background-image: url(body.jpg);
-    background-repeat: no-repeat;
-
+.h1{
+    color: rgb(89, 126, 82);
 }
-.about{
-    border-width: 5px;
-    border-style:dotted;
-    border-color: aqua;
-    border-radius: 25px;
+.subhead{
+    color: rgb(255, 255, 236);
 }
-.contact{
-    background-color: aqua;
+.hero{
+    background-color: rgb(241, 228, 195);
+    padding: 20px 20px 20px;
 }
-.pages{
-    border: 5px solid aqua;
-    border-radius: 25px ;
+.body{
+    background-color: rgb(255, 255, 236);
+    padding: 25px;
+}
+.foot{
+    background-color: rgb(198, 169, 105);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }

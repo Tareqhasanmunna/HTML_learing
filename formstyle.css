@@ -1,0 +1,16 @@
+.page{
+    background-color: rgb(241, 228, 195);
+}
+.heading{
+    color: rgb(241, 228, 195);
+    background-color: rgb(198, 169, 105);
+    padding: 20px;
+}
+.submit{
+    color: rgb(255, 255, 236);
+    background-color: rgb(89, 126, 82);
+}
+.reset{
+    color: rgb(255, 255, 236);
+    background-color: rgb(254, 0, 0);
+}
