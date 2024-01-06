@@ -1,6 +1,9 @@
 .page{
     background-color: rgb(241, 228, 195);
 }
+body{
+    font-family:'Varela Round', sans-serif;
+}
 .heading{
     color: rgb(241, 228, 195);
     background-color: rgb(198, 169, 105);
